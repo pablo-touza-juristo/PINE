@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/pine">/home/pablo/Personal/PINE/demo_PINE/build/pine</file>
+
+  </qresource>
+</RCC>

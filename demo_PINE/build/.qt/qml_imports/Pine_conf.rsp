@@ -1,0 +1,15 @@
+-rootPath
+/home/pablo/Personal/PINE/demo_PINE
+-cmake-output
+-output-file
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/qml_imports/Pine_conf.cmake
+-importPath
+/home/pablo/Personal/PINE/demo_PINE/build/pine
+-importPath
+/home/pablo/Personal/PINE/demo_PINE/build
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/qmake_pine.qrc
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/Pine_raw_qml_0.qrc
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/Pine_raw_res_0.qrc

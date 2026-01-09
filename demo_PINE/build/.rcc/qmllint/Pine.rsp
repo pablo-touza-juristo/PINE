@@ -1,0 +1,16 @@
+--bare
+-I
+/home/pablo/Personal/PINE/demo_PINE/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/qmake_pine.qrc
+--resource
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/Pine_raw_qml_0.qrc
+--resource
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/Pine_raw_res_0.qrc
+/home/pablo/Personal/PINE/demo_PINE/qml/main.qml
+/home/pablo/Personal/PINE/demo_PINE/qml/Componentes/SideBar.qml
+/home/pablo/Personal/PINE/demo_PINE/qml/Componentes/SideBarButton.qml
+/home/pablo/Personal/PINE/demo_PINE/qml/Pantallas/PaginaClientes.qml
+/home/pablo/Personal/PINE/demo_PINE/qml/Pantallas/PaginaExpedientes.qml

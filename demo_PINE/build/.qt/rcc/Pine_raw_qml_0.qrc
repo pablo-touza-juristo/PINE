@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/pine/">
+    <file alias="qml/main.qml">/home/pablo/Personal/PINE/demo_PINE/qml/main.qml</file>
+    <file alias="qml/Componentes/SideBar.qml">/home/pablo/Personal/PINE/demo_PINE/qml/Componentes/SideBar.qml</file>
+    <file alias="qml/Componentes/SideBarButton.qml">/home/pablo/Personal/PINE/demo_PINE/qml/Componentes/SideBarButton.qml</file>
+    <file alias="qml/Pantallas/PaginaClientes.qml">/home/pablo/Personal/PINE/demo_PINE/qml/Pantallas/PaginaClientes.qml</file>
+    <file alias="qml/Pantallas/PaginaExpedientes.qml">/home/pablo/Personal/PINE/demo_PINE/qml/Pantallas/PaginaExpedientes.qml</file>
+  </qresource>
+</RCC>
+

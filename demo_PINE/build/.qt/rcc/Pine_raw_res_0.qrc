@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/pine/">
+    <file alias="qml/Assets/Icons/clientes.svg">/home/pablo/Personal/PINE/demo_PINE/qml/Assets/Icons/clientes.svg</file>
+    <file alias="qml/Assets/Icons/expedientes.svg">/home/pablo/Personal/PINE/demo_PINE/qml/Assets/Icons/expedientes.svg</file>
+    <file alias="qml/Assets/Icons/fases.svg">/home/pablo/Personal/PINE/demo_PINE/qml/Assets/Icons/fases.svg</file>
+    <file alias="qml/Assets/Icons/actuaciones.svg">/home/pablo/Personal/PINE/demo_PINE/qml/Assets/Icons/actuaciones.svg</file>
+    <file alias="qml/Assets/Icons/salir.svg">/home/pablo/Personal/PINE/demo_PINE/qml/Assets/Icons/salir.svg</file>
+  </qresource>
+</RCC>
+

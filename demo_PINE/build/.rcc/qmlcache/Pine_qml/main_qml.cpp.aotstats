@@ -1,0 +1,63 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 173,
+                            "functionName": "fill",
+                            "line": 17,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 161,
+                            "functionName": "onPageSelected",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 29,
+                            "durationMicroseconds": 50,
+                            "functionName": "onPageSelected",
+                            "line": 25,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 31,
+                            "durationMicroseconds": 70,
+                            "functionName": "fill",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 82,
+                            "durationMicroseconds": 59,
+                            "functionName": "centerIn",
+                            "line": 50,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 88,
+                            "durationMicroseconds": 55,
+                            "functionName": "centerIn",
+                            "line": 51,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "/home/pablo/Personal/PINE/demo_PINE/qml/main.qml"
+                }
+            ],
+            "moduleId": "pine(Pine)"
+        }
+    ]
+}

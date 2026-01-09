@@ -1,0 +1,239 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 78,
+                            "functionName": "fill",
+                            "line": 7,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 26,
+                            "functionName": "fill",
+                            "line": 27,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 48,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 38,
+                            "message": "Could not find property \"verticalAlignment\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 43,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 36,
+                            "message": "Could not find property \"fill\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 62,
+                            "durationMicroseconds": 57,
+                            "functionName": "left",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 99,
+                            "durationMicroseconds": 41,
+                            "functionName": "verticalCenter",
+                            "line": 39,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 52,
+                            "message": "Could not find property \"verticalAlignment\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 50,
+                            "message": "Could not find property \"fill\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 66,
+                            "durationMicroseconds": 51,
+                            "functionName": "left",
+                            "line": 53,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 103,
+                            "durationMicroseconds": 39,
+                            "functionName": "verticalCenter",
+                            "line": 53,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 52,
+                            "durationMicroseconds": 0,
+                            "functionName": "verticalAlignment",
+                            "line": 62,
+                            "message": "Could not find property \"verticalAlignment\"."
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 47,
+                            "durationMicroseconds": 0,
+                            "functionName": "fill",
+                            "line": 60,
+                            "message": "Could not find property \"fill\"."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 66,
+                            "durationMicroseconds": 38,
+                            "functionName": "left",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 103,
+                            "durationMicroseconds": 37,
+                            "functionName": "verticalCenter",
+                            "line": 63,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 70,
+                            "functionName": "alignment",
+                            "line": 76,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 27,
+                            "durationMicroseconds": 41,
+                            "functionName": "text",
+                            "line": 79,
+                            "message": "Cannot load property text from (component in /home/pablo/Personal/PINE/demo_PINE/qml/Pantallas/PaginaExpedientes.qml)::parent with type QQuickItem."
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 42,
+                            "durationMicroseconds": 31,
+                            "functionName": "horizontalAlignment",
+                            "line": 81,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 80,
+                            "durationMicroseconds": 26,
+                            "functionName": "verticalAlignment",
+                            "line": 81,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 32,
+                            "functionName": "model",
+                            "line": 93,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 24,
+                            "durationMicroseconds": 50,
+                            "functionName": "width",
+                            "line": 96,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 35,
+                            "durationMicroseconds": 23,
+                            "functionName": "fill",
+                            "line": 104,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 24,
+                            "functionName": "text",
+                            "line": 113,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 42,
+                            "durationMicroseconds": 21,
+                            "functionName": "text",
+                            "line": 114,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 35,
+                            "durationMicroseconds": 16,
+                            "functionName": "text",
+                            "line": 118,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 36,
+                            "durationMicroseconds": 29,
+                            "functionName": "elide",
+                            "line": 120,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 43,
+                            "durationMicroseconds": 59,
+                            "functionName": "alignment",
+                            "line": 126,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 17,
+                            "functionName": "text",
+                            "line": 129,
+                            "message": "Cannot access value for name model"
+                        },
+                        {
+                            "codegenResult": 2,
+                            "column": 38,
+                            "durationMicroseconds": 17,
+                            "functionName": "text",
+                            "line": 130,
+                            "message": "Cannot access value for name model"
+                        }
+                    ],
+                    "filePath": "/home/pablo/Personal/PINE/demo_PINE/qml/Pantallas/PaginaExpedientes.qml"
+                }
+            ],
+            "moduleId": "pine(Pine)"
+        }
+    ]
+}

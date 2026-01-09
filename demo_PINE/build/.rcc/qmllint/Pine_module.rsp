@@ -1,0 +1,12 @@
+-I
+/home/pablo/Personal/PINE/demo_PINE/build
+-I
+/usr/lib/qt6/qml
+--resource
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/qmake_pine.qrc
+--resource
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/Pine_raw_qml_0.qrc
+--resource
+/home/pablo/Personal/PINE/demo_PINE/build/.qt/rcc/Pine_raw_res_0.qrc
+--module
+pine

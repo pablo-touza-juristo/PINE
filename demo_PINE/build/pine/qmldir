@@ -1,0 +1,9 @@
+module pine
+typeinfo Pine.qmltypes
+prefer :/pine/
+SideBar 1.0 qml/Componentes/SideBar.qml
+SideBarButton 1.0 qml/Componentes/SideBarButton.qml
+PaginaClientes 1.0 qml/Pantallas/PaginaClientes.qml
+PaginaExpedientes 1.0 qml/Pantallas/PaginaExpedientes.qml
+depends QtQuick
+

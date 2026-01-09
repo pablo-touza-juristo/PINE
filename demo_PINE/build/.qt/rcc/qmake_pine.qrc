@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/pine">
+    <file alias="qmldir">/home/pablo/Personal/PINE/demo_PINE/build/pine/qmldir</file>
+  </qresource>
+</RCC>
+
